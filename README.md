@@ -1,4 +1,4 @@
-# Akademia Odoo Project 
+# Akademia Odoo Project [![Akademia Odoo](https://akademiaodoo.pl/web/image/website/2/logo/Akademia%20Odoo?unique=21d5152)](https://akademiaodoo.pl/)
 
 Git & GitHub E-learning project by RedKnife Studio sp. z o.o. for Akademia Odoo - 2021 
 
